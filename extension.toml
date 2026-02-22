@@ -7,5 +7,4 @@ schema_version = 1
 authors = ["Peter Bassi <https://github.com/peterjbassi>"]
 repository = "https://github.com/peterjbassi/peter-zed-theme"
 
-[themes]
-peter = "themes/peter.json"
+themes = ["themes/peter.json"]
